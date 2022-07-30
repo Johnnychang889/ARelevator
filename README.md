@@ -1,3 +1,5 @@
-# ARelevator
+# A16專題
 ```
-6/15下午3:10上Teams團隊線上分組頻道報告-https://reurl.cc/zZorWa
+有任何想法可以直接修改
+
+8/12交: 企畫書 系統需求書 3分鐘DEMO影片
